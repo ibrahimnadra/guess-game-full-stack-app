@@ -9,6 +9,8 @@ This is a simple Flask-based API for a number guessing game. The server generate
 - Provides feedback on whether the guess is too high, too low, or correct.
 - Resets the game after a correct guess.
 
+![img.png](be-ss.png)
+
 ## Requirements
 
 - Python 3.x

@@ -3,6 +3,8 @@
 This is the frontend part of a number guessing game application built with Angular. The frontend communicates with a backend API to handle game logic and user interactions.
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
 
+![img.png](fe-ss.png)
+
 # Prerequisite
 
 Install [Node.js](https://nodejs.org/) and [Angular CLI](https://angular.dev/tools/cli) if you haven't already. You can check if they are installed by running:
