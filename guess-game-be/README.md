@@ -1,4 +1,4 @@
-# Number Guessing Game API
+# guess-game-fe
 
 This is a simple Flask-based API for a number guessing game. The server generates a random number between 1 and 10, and users can guess the number by sending POST requests to the `/guess` endpoint.
 
@@ -20,7 +20,7 @@ This is a simple Flask-based API for a number guessing game. The server generate
 1. Clone the repository:
    ```sh
    git clone <repository-url>
-   cd guess-game
+   cd guess-game-be
    ```
 
 1. Install the required Python packages:
@@ -28,7 +28,7 @@ This is a simple Flask-based API for a number guessing game. The server generate
    pip install flask flask-cors
    ```
 
-1. Clone the repository:
+1. Run the Flask application:
    ```sh
    python3 guess_game.py
    ```

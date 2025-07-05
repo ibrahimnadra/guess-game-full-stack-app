@@ -1,16 +1,38 @@
-# AngularDemo
+# guess-game-fe
 
+This is the frontend part of a number guessing game application built with Angular. The frontend communicates with a backend API to handle game logic and user interactions.
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
 
-## Development server
+# Prerequisite
 
-To start a local development server, run:
+Install [Node.js](https://nodejs.org/) and [Angular CLI](https://angular.dev/tools/cli) if you haven't already. You can check if they are installed by running:
 
 ```bash
-ng serve
+node -v
+ng version
+```
+# Getting Started
+
+To get started with this Angular project, follow these steps:
+
+## Clone the repository
+```bash
+git clone <repository-url>
+cd guess-game-fe
+```
+## Install dependencies
+```bash
+npm install
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Running the application
+To run the application in development mode, use the following command:
+
+```bash
+ng serve --open
+```
+        
+This command will compile the application and open it in your default web browser. The application will be available at `http://localhost:4200/`.
 
 ## Code scaffolding
 
